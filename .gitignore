@@ -1,0 +1,8 @@
+linux_env
+env
+__pycache__
+runs
+Helsinki-NLP
+tokenizer_en.json
+tokenizer_it.json
+walkthrough.md
