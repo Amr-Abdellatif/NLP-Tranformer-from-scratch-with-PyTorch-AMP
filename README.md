@@ -3,6 +3,11 @@
 This is a step by step implementation of Attention is all you need paper issued in 2017
 The model was basically coded by Umar-jamil but i did my homework and did a step by step implementation with debugging which wasn't a simple task
 
+
+https://github.com/Amr-Abdellatif/NLP-Tranformer-from-scratch-with-PyTorch-AMP/assets/92921252/c263c312-ec65-4651-a949-fddc36043c28
+
+
+
 # What did I Add ?
 
 1. Automatic mixed precision for the forward loop in training and validation steps.
